@@ -1,0 +1,26 @@
+*{
+ margin: 0;
+ padding: 0;
+}
+
+body{
+    background-color: whitesmoke;
+}
+
+
+nav{
+    background-color: rgb(226, 28, 28);
+    color: white;
+    font-size: 51px;
+    height: 30px;
+    padding: 50px;
+    margin: 12px;
+    text-size-adjust: 100px;
+    list-style: outside;
+}
+.mobileframe{
+    height: 1080px;
+    width: 1972px;
+    border: 20ch;
+    border-radius: 10ch;
+}
