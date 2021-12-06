@@ -33,6 +33,13 @@ nav ul{
     position: relative;
 }
 
+@media  only screen and (width:720px) {
+    .webcast{
+        width: 400px !important;
+        height: 200px !important;
+    }
+}
+
 .box{
     border: 2px solid black;
     font-size: 8vw;
