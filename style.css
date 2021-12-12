@@ -121,5 +121,11 @@ nav ul{
     .container { 
         grid-template-rows: repeat(3, 20vw);
         grid-template-columns: repeat(3, 20vw);
+        
+        
+@media only screen and (max-width: 1100px) {
+    body {
+        background-color: rgb(80, 19, 223);
     }
 }
+    
